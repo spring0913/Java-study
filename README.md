@@ -1,2 +1,2 @@
-# kotlin-study
-Kotlin Study 📚
+# java-study
+Java Study 📚
